@@ -1,5 +1,3 @@
--A River Runs Through It
--A River Runs Through It
 # Titles
 
 -A River Runs Through It
